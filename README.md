@@ -67,7 +67,7 @@ Explore all [repositories](https://github.com/Suraj-singh048?tab=repositories) (
 
 ### 📌 **GitHub Summary**
 - 🌟 **Repositories:** 15+  
-- 🏆 **Commits in 2024:** 500+  
+- 🏆 **Commits in 2024:** 50+  
 - 💻 **Projects Focused on Analytics & ML:** 10+  
 
 ### 📌 **Skills Overview**
