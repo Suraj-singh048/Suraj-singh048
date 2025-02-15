@@ -6,6 +6,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=vercel)](https://sps-portfolio-website.vercel.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/suraj-singh-093a6822a/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-green?style=for-the-badge&logo=github)](https://github.com/Suraj-singh048)
+[![Medium](https://img.shields.io/badge/Medium-Follow%20Me-black?style=for-the-badge&logo=medium)](https://medium.com/@suraj-singh-007)
 
 ---
 
