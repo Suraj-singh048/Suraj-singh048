@@ -11,7 +11,7 @@
 ---
 
 ## 🎓 **About Me**
-Hi! I'm Suraj Singh, a **Data Analytics Enthusiast** and **Machine Learning Specialist**, currently pursuing a B.Tech in Computer Science and Engineering at the Central University of Haryana (**Graduating in 2025**, GPA: 8.3). I love transforming data into actionable insights, building predictive models, and creating impactful visualizations.
+Hi! I'm Suraj Singh, a **Data Analytics Enthusiast** and **Machine Learning Specialist**, currently pursuing a B.Tech in Computer Science and Engineering at the Central University of Haryana (**Graduating in 2025**, GPA: 8.5). I love transforming data into actionable insights, building predictive models, and creating impactful visualizations.
 
 - 🧑‍💻 **Open to internships and full-time roles** in **Data Science**, **Machine Learning**, and **Analytics**.
 - 🌐 **Constant Learner** exploring **Deep Learning**, **Cloud Computing**, and **MLOps**.
