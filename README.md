@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-# 💻 **Suraj Singh**  
-🚀 *Data Analytics | Machine Learning | Visualization Expert*  
+# **Suraj Singh**  
+*AI Engineer| Machine Learning | SDE*  
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=vercel)](https://sps-portfolio-website.vercel.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/suraj-singh-093a6822a/)  
@@ -10,17 +10,17 @@
 
 ---
 
-## 🎓 **About Me**
-Hi! I'm Suraj Singh, a **Data Analytics Enthusiast** and **Machine Learning Specialist**, currently pursuing a B.Tech in Computer Science and Engineering at the Central University of Haryana (**Graduating in 2025**, GPA: 8.5). I love transforming data into actionable insights, building predictive models, and creating impactful visualizations.
+## **About Me**
+Hi! I'm Suraj Singh, a **AI Engineer** and **Software Developer**, with more than 1 year of experience and Graduated B.Tech in Computer Science and Engineering at the Central University of Haryana. I love transforming data into actionable products, building End to End Applications around AI, and creating impactful results.
 
-- 🧑‍💻 **Open to internships and full-time roles** in **Data Science**, **Machine Learning**, and **Analytics**.
-- 🌐 **Constant Learner** exploring **Deep Learning**, **Cloud Computing**, and **MLOps**.
+- **Open to Collaborations and full-time roles** in **AI Engineering**, **Software Development around AI**, and **Analytics**.
+- **Constant Learner** exploring **Deep Learning**, **Cloud Computing**, and **MLOps**.
 
 ---
 
-## 🔥 **Highlights**
+## **Highlights**
 
-### 🚀 **Professional Experience**
+### **Professional Experience**
 - **Research Intern** *(NIT Kurukshetra)*  
   - Enhanced Gen-AI recommendation accuracy by 15%.  
   - Conducted advanced data analysis and evaluation of AI models.  
@@ -29,10 +29,12 @@ Hi! I'm Suraj Singh, a **Data Analytics Enthusiast** and **Machine Learning Spec
   - Analyzed 1,000+ data points, improved decision-making efficiency by 20%.  
   - Built classification and regression models using Scikit-Learn, PyTorch, and TensorFlow.  
 
-- **Business Analyst** *(Uolo.com | Internship, Dec 2024 - Present, Gurugram, Haryana, India)*  
-  - Built a chatbot for Uolo’s EdTech platform, reducing manual support inquiries by 30%.  
-  - Streamlined the data pipeline for chatbot analytics, cutting data processing time by 40%.  
-  - Automated repetitive data analysis tasks, freeing team bandwidth for strategic initiatives.
+- **AI Engineer** *(Uolo.com, Dec 2024 - Present, Gurugram, Haryana, India)*  
+  - Developed an end-to-end AI Auto-Grading application, boosting user engagement by 28%.
+ - Architected "U-Bot," a multi-agent realtime voice AI system, that provides real-time feedback and direct interaction
+with end-users across multiple products, and increased user rating by 10%.
+ - Built an ASR-driven Pronunciation Assessment Tool, reducing third-party vendor costs by 70%.
+ - Engineered automated evaluation pipelines to benchmark dynamic AI systems across diverse performance metrics.
 
 ### 🛠️ **Skills**
 - **Programming & Data Processing:** Python, R, SQL, MySQL, PostgreSQL  
@@ -43,30 +45,16 @@ Hi! I'm Suraj Singh, a **Data Analytics Enthusiast** and **Machine Learning Spec
 
 ---
 
-## 📂 **Featured Projects**
+## **Featured Projects**
 
-### 📊 **1. Next-Gen Recommendation System**  
-🎯 Cross-domain and session-based recommendations for personalized experiences.  
-🔗 [Repository Link](https://github.com/Suraj-singh048/Next_Gen_Recomendation_Systems)
+### **1. Next-Gen Recommendation System**   Cross-domain and session-based recommendations for personalized experiences.  
+[Repository Link](https://github.com/Suraj-singh048/Next_Gen_Recomendation_Systems)
 
-### 📝 **2. Free ATS Scorer**  
-✅ An open-source tool to evaluate résumés based on ATS (Applicant Tracking System) criteria.  
-🤝 Helps job seekers optimize their résumés for better visibility and higher interview rates.  
-🔗 [Repository Link](https://github.com/Suraj-singh048/Free-ATS-Scorer)
-
-### 📈 **3. User Engagement Tracker**  
-📊 Tracked user trends post-platform updates, leveraging SQL, Python, and Excel.  
-🔗 [Repository Link](https://github.com/Suraj-singh048/Tracking-User-Engagement-with-SQL--Excel--and-Python)
-
-### ❤️ **4. Heart Disease Predictor**  
-📉 Simplified early detection with 92% model accuracy for proactive health interventions.  
-🔗 [Repository Link](https://github.com/Suraj-singh048/Heart-Disease-Predictor)
-
-Explore all [repositories](https://github.com/Suraj-singh048?tab=repositories) (👨‍💻 **15+ Repositories**).
+Explore all [repositories](https://github.com/Suraj-singh048?tab=repositories) (**30+ Repositories**).
 
 ---
 
-## 🎓 **Certifications**
+## **Certifications**
 1. **Google Data Analytics** *(Coursera)*  
 2. **Machine Learning with Python** *(IIT Delhi - NPTEL)*  
 3. **Data Analytics with Python** *(IIT Madras - NPTEL)*  
@@ -76,9 +64,9 @@ Explore all [repositories](https://github.com/Suraj-singh048?tab=repositories) (
 
 ---
 
-## 📈 **Visuals & Insights**
+## **Visuals & Insights**
 
-### 📌 **GitHub Stats**
+### **GitHub Stats**
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suraj-singh048&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj-singh048&layout=compact&theme=radical)
 
