@@ -1,7 +1,7 @@
 # Suraj Singh
 **AI Engineer | SDE | Generative AI & Agentic Workflows**
 
-[Portfolio](https://surajbuild.tech/) | [LinkedIn](https://www.linkedin.com/in/suraj-singh-093a6822a/) | [Email](mailto:surajpratapsingh9798@gmail.com)
+[Portfolio](https://surajbuilds.tech/) | [LinkedIn](https://www.linkedin.com/in/suraj-singh-093a6822a/) | [Email](mailto:surajpratapsingh9798@gmail.com)
 
 ---
 
